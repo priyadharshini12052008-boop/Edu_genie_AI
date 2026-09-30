@@ -1,5 +1,0 @@
-# Optional local explanation model support.
-# Install this only if USE_LOCAL_EXPLANATION=true.
-transformers>=4.45,<5
-torch>=2.2
-sentencepiece>=0.2
